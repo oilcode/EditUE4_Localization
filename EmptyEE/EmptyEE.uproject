@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C8A844D0-4221-14BD-ECC9-0CA55D35EAE2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EmptyEE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	]
+}
